@@ -1,3 +1,0 @@
-# hello-world
-bla bla
-Here we are at the top of the hill looking dowwn ...
